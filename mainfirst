@@ -1,6 +1,6 @@
-((java-mode
+//((java-mode
   .
-  ((eval
+//  ((eval
     .
     (progn
       (defun my/point-in-defun-declaration-p ()
